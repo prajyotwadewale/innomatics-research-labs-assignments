@@ -17,3 +17,9 @@ This repository contains all assignments completed during my internship at Innom
 
 ## 👨‍💻 Author
 Prajyot Wadewale
+
+## 📜 Internship Certificate
+
+Successfully completed the Data Science Internship at Innomatics Research Labs.
+
+![Certificate](certificate.png)
