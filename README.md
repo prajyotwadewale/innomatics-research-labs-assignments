@@ -22,4 +22,4 @@ Prajyot Wadewale
 
 Successfully completed the Data Science Internship at Innomatics Research Labs.
 
-![Certificate](certificate.png)
+![Certificate](Certificate.png)
